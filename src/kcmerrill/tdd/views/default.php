@@ -7,15 +7,15 @@
             padding:15px;
         }
         .win {
-            background-color:green;
+            background-color:lightgreen;
             color:white;
         }
         .fail {
-            background-color:red;
+            background-color:lightcoral;
             color:white;
         }
         .unknown {
-            background-color:yellow;
+            background-color:lightyellow;
             color:black;
         }
     </style>
